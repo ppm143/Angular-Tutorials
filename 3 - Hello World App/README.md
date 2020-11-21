@@ -7,16 +7,21 @@ cd project_name
 ng serve -o
 ```
 >## Modules
-- img1
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/1.JPG)
+
 - Every angular application has at least one module Root Module - `AppModule`.
 
 >### Components
-- img2
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/2.JPG)
 - Every angular application has at least one component Root Component - `AppComponent`.
-- img3
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/3.JPG)
 
 >### Services
-- img 4
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/4.JPG)
 
 >## Architecture Summary
 - Angular App - One or more module
@@ -32,7 +37,6 @@ ng serve -o
 - main.ts - entry point of angular
 - app.module.ts - root module
 - app.component.ts - root component
-- 
 
 
 
