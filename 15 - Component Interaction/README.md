@@ -1,6 +1,8 @@
 ># Component Interaction
 - component interact with decorators.
-- img 7
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/7.JPG)
+
 - `@input` child can accept input from parent.
 - `@output` child send event to parent.
   
