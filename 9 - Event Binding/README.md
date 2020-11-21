@@ -1,6 +1,7 @@
 ># Event Binding
 - In data binding data flow goes from `component to class`. But sometimes response of user event like click we need to data flow from `other directions`. So, for this we need `event binding`.
-- img 5
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/5.JPG)
 
 
 ```js
