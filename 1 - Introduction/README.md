@@ -19,4 +19,4 @@
   
 - Google upgrade angular twice in a year
 - semantic versioning
-- [](https://github.com/ppm143/AllProjectImages/blob/master/Angular/1.JPG)
+- ![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/1.JPG)
