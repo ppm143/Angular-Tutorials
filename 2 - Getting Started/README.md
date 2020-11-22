@@ -15,4 +15,4 @@
 ---
 
 - for angular cli `npm i -g @angular/cli`
-- check version `ng -v`
+- check version `ng v`
