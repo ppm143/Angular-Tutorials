@@ -32,11 +32,11 @@ ng serve -o
 
 >## Important Files & Folders
 
-- package.json - contains dependencies of library or modules which are required for project
-- node_modules - all packages install 
-- main.ts - entry point of angular
-- app.module.ts - root module
-- app.component.ts - root component
+- `package.json - contains dependencies of library or modules which are required for project`
+- `node_modules - all packages install` 
+- `main.ts - entry point of angular`
+- `app.module.ts - root module`
+- `app.component.ts - root component`
 
 
 
