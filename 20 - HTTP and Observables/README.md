@@ -1,12 +1,16 @@
 >#  HTTP and Observables
 
 >## HTTP Mechanism
-- img 10
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/10.JPG)
 
 
 >## Observable
-- img 11
-- img 12
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/11.JPG)
+
+![](https://github.com/ppm143/AllProjectImages/blob/master/Angular/12.JPG)
+
 - A sequence of items that arrive asynchronously over time.
 - HTTP call - single item
 - Single item - HTTP response
